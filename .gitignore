@@ -1,0 +1,19 @@
+target
+.gradle
+build
+classes
+out
+
+#IDEA Files
+.idea
+*.iml
+*.ipr
+
+#Eclipse files
+*.settings
+*.classpath
+*.project
+*.pydevproject
+
+#Mac OS stuff
+.DS_Store
