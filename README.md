@@ -18,7 +18,7 @@ BUILD SUCCESSFUL in 1s
 In case of dependency hell (emulated in master) no tests running and no warning at all:
 
 ```
-charlie:gradle-junit5-issue charlie$ ./gradlew clean build
+baev:gradle-junit5-issue baev$ ./gradlew clean build
 
 BUILD SUCCESSFUL in 1s
 4 actionable tasks: 4 executed
